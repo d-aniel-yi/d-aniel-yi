@@ -7,6 +7,8 @@ Stay tuned for projects!
 
 Currently learning: Python, ML basics using Kaggle
 
+Completed Kaggle Courses: intro to programming, python, intro to machine learning
+
 
 <!--
 i solemnly swear that i am up to no good
