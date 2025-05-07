@@ -1,13 +1,7 @@
 ### Hello world!
 Biology major turned football coach turned sales guy.
 
-I took a programming class once in high school and an informatics class once in college, looking to relearn the basics and improve my data science knowledge!
-
-Stay tuned for projects!
-
-Currently learning: Python, ML basics using Kaggle
-
-Completed Kaggle Courses: intro to programming, python, intro to machine learning
+Currently vibe coding stealth projects and websites, using this github page mostly for private projects. Stay tuned for any exciting, public facing updates!
 
 
 <!--
